@@ -38,13 +38,15 @@ for c in s:
 
 # Viết chương trình hiển thị ra tích của a vs các số từ 1 đến 10
 print("*****BẢNG CỬU CHƯƠNG******")
-n = int(input("Nhập cửu chương: "))
-for i in range(1,10):
-    if n <= 10:
+def bangcuuchuong(n):
+    for i in range(1,10):
         print(n, "*", i, "=", n*i)
+while True:
+    n = int(input("Nhập cửu chương: "))
+    if n <= 10:
+        bangcuuchuong(n)
     else:
-        print("Nhập số nhỏ hơn 10")
-        break
+        bangcuuchuong(int(input("Vui lòng nhập số nhỏ hơn 10: ")))
 
 
     
