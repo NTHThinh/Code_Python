@@ -1,0 +1,3 @@
+SV001, Nguyễn Văn A, 1/1/1998 
+SV002, Nguyễn Văn B, 2/2/1997 
+SV003, Nguyễn Văn C, 3/3/1999 
