@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="invoice.xsl"?>
+<inv:invoice xmlns:inv="http://laphoadon.gdt.gov.vn/2014/09/invoicexml/v1"
+    xmlns:ns1="http://www.w3.org/2000/09/xmldsig#">
+    <inv:invoiceData id="data">
+        <inv:invoiceType>01GTKT</inv:invoiceType>
+        <inv:templateCode>01GTKT0/001</inv:templateCode>
+        <inv:invoiceSeries>MV/20E</inv:invoiceSeries>
+        <inv:invoiceNumber>0000016</inv:invoiceNumber>
+        <inv:invoiceName>HÓA ĐƠN GIÁ TRỊ GIA TĂNG</inv:invoiceName>
+        <inv:invoiceIssuedDate>2020-09-01T00:00:00+07:00</inv:invoiceIssuedDate>
+        <inv:invoiceSignedDate>2020-09-01T00:00:00+07:00</inv:invoiceSignedDate>
+        <inv:currencyCode>VND</inv:currencyCode>
+        <inv:invoiceNote/>
+        <inv:adjustmentType>1</inv:adjustmentType>
+        <inv:seller>
+            <inv:sellerCode/>
+            <inv:sellerLegalName>CÔNG TY TNHH MỘT THÀNH VIÊN SƠN MẠNH VỮNG</inv:sellerLegalName>
+            <inv:sellerTaxCode>3702228787</inv:sellerTaxCode>
+            <inv:sellerAddressLine>Số 55, Tổ 1, Khu phố Tân Hóa,  Phường Tân Vĩnh Hiệp, Thị Xã Tân Uyên, Tỉnh Bình Dương.</inv:sellerAddressLine>
+            <inv:sellerPhoneNumber>0903736969</inv:sellerPhoneNumber>
+            <inv:sellerFaxNumber/>
+            <inv:sellerEmail>sonmanhvung1209@gmail.com</inv:sellerEmail>
+            <inv:sellerBankName>Vietinbank - CN Bình Dương.</inv:sellerBankName>
+            <inv:sellerBankAccount>117000124210</inv:sellerBankAccount>
+            <inv:sellerContactPersonName/>
+            <inv:sellerContactPersonPhoneNumber/>
+            <inv:sellerContactPersonEmail/>
+            <inv:sellerWebsite/>
+            <inv:sellerBusinessLicenseNo>3702228787</inv:sellerBusinessLicenseNo>
+            <inv:sellerRepresentative>nguyễn văn vững</inv:sellerRepresentative>
+            <inv:sellerBankAccountOwner/>
+            <inv:sellerRepresentativeIdType>3</inv:sellerRepresentativeIdType>
+            <inv:sellerSearchInvoiceLink/>
+            <inv:sellerRepresentativeIdNo>168223061</inv:sellerRepresentativeIdNo>
+        </inv:seller>
+        <inv:buyer>
+            <inv:buyerCode/>
+            <inv:buyerDisplayName/>
+            <inv:buyerLegalName>CÔNG TY TNHH THIẾT KẾ VÀ TRANG TRÍ NỘI THẤT LỘC KHANG</inv:buyerLegalName>
+            <inv:buyerTaxCode>3702371794</inv:buyerTaxCode>
+            <inv:buyerAddressLine>7 Lê Thị Trung, phường Phú Lợi, thành phố Thủ Dầu Một, tỉnh Bình Dương</inv:buyerAddressLine>
+            <inv:buyerPostalCode/>
+            <inv:buyerDistrictName/>
+            <inv:buyerCityName/>
+            <inv:buyerCountryCode/>
+            <inv:buyerPhoneNumber/>
+            <inv:buyerFaxNumber/>
+            <inv:buyerEmail/>
+            <inv:buyerBankName/>
+            <inv:buyerBankAccount/>
+            <inv:buyerIdType/>
+            <inv:buyerIdNo/>
+            <inv:buyerBirthDay/>
+        </inv:buyer>
+        <inv:items>
+            <inv:item>
+                <inv:lineNumber>1</inv:lineNumber>
+                <inv:itemCode>terramatt</inv:itemCode>
+                <inv:itemName>TERRAMATT</inv:itemName>
+                <inv:unitName>16,7L/T</inv:unitName>
+                <inv:unitPrice>295000</inv:unitPrice>
+                <inv:quantity>100</inv:quantity>
+                <inv:selection>1</inv:selection>
+                <inv:itemTotalAmountWithoutVat>29500000</inv:itemTotalAmountWithoutVat>
+                <inv:itemTotalAmountWithVat>29500000</inv:itemTotalAmountWithVat>
+                <inv:itemTotalAmountAfterDiscount>0</inv:itemTotalAmountAfterDiscount>
+                <inv:vatAmount>0</inv:vatAmount>
+                <inv:discount>0</inv:discount>
+                <inv:itemDiscount>0</inv:itemDiscount>
+            </inv:item>
+            <inv:item>
+                <inv:lineNumber>2</inv:lineNumber>
+                <inv:itemCode>terralast</inv:itemCode>
+                <inv:itemName>TERRALAST BASE PASTEL</inv:itemName>
+                <inv:unitName>18L/T</inv:unitName>
+                <inv:unitPrice>534900</inv:unitPrice>
+                <inv:quantity>47</inv:quantity>
+                <inv:selection>1</inv:selection>
+                <inv:itemTotalAmountWithoutVat>25140300</inv:itemTotalAmountWithoutVat>
+                <inv:itemTotalAmountWithVat>25140300</inv:itemTotalAmountWithVat>
+                <inv:itemTotalAmountAfterDiscount>0</inv:itemTotalAmountAfterDiscount>
+                <inv:vatAmount>0</inv:vatAmount>
+                <inv:discount>0</inv:discount>
+                <inv:itemDiscount>0</inv:itemDiscount>
+            </inv:item>
+            <inv:item>
+                <inv:lineNumber>3</inv:lineNumber>
+                <inv:itemCode>terralast_base_pastel</inv:itemCode>
+                <inv:itemName>TERRATOP BASE PASTEL</inv:itemName>
+                <inv:unitName>18L/T</inv:unitName>
+                <inv:unitPrice>900000</inv:unitPrice>
+                <inv:quantity>10</inv:quantity>
+                <inv:selection>1</inv:selection>
+                <inv:itemTotalAmountWithoutVat>9000000</inv:itemTotalAmountWithoutVat>
+                <inv:itemTotalAmountWithVat>9000000</inv:itemTotalAmountWithVat>
+                <inv:itemTotalAmountAfterDiscount>0</inv:itemTotalAmountAfterDiscount>
+                <inv:vatAmount>0</inv:vatAmount>
+                <inv:discount>0</inv:discount>
+                <inv:itemDiscount>0</inv:itemDiscount>
+            </inv:item>
+        </inv:items>
+        <inv:discountItems/>
+        <inv:invoiceTaxBreakdowns>
+            <inv:invoiceTaxBreakdowns>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatTaxableAmount>63640300</inv:vatTaxableAmount>
+                <inv:vatTaxAmount>6364030</inv:vatTaxAmount>
+            </inv:invoiceTaxBreakdowns>
+        </inv:invoiceTaxBreakdowns>
+        <inv:payments>
+            <inv:payment>
+                <inv:paymentMethodName>CK</inv:paymentMethodName>
+            </inv:payment>
+        </inv:payments>
+        <inv:sumOfTotalLineAmountWithoutVAT>63640300</inv:sumOfTotalLineAmountWithoutVAT>
+        <inv:totalAmountWithoutVAT>63640300</inv:totalAmountWithoutVAT>
+        <inv:totalVATAmount>6364030</inv:totalVATAmount>
+        <inv:totalAmountWithVAT>70004330</inv:totalAmountWithVAT>
+        <inv:totalAmountAfterDiscount>0</inv:totalAmountAfterDiscount>
+        <inv:totalAmountWithVATInWords>Bảy mươi triệu không trăm lẻ bốn nghìn ba trăm ba mươi đồng</inv:totalAmountWithVATInWords>
+        <inv:discountAmount>0</inv:discountAmount>
+        <inv:userDefines>&lt;reservationCode&gt;LSRVGUHU7C&lt;/reservationCode&gt;</inv:userDefines>
+        <inv:customDefines>
+            <inv:reservationCode>LSRVGUHU7C</inv:reservationCode>
+        </inv:customDefines>
+        <inv:metadata>
+            <inv:invoiceNote/>
+        </inv:metadata>
+        <inv:userName>3702228787</inv:userName>
+    </inv:invoiceData>
+    <Barcode>3702228787|01GTKT0/001|1|MV/20E0000016|3702371794|01/09/2020|70004330</Barcode>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="seller">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+            <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+            <Reference URI="">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                <DigestValue>3al88FUYz4zIHPxjpPtIWp9APag=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>Y30vE3EhHCkUJ+e9b0mYE6owJ8kYtCE23gd7Mkc5OzCVxjoRr414T5SBu1F4CrV5UaRElhXJC7/c&#xD; Ll/XqFUxqLmtdXJ1SUebtvccvW8e8xk9bUF/e2+fZNNe+1yhgfdzs8IQoHudH0MsTifHP9CAyaQq&#xD; ITQC58SijPaf9GnBc8g=</SignatureValue>
+        <KeyInfo>
+            <X509Data>
+                <X509SubjectName>C=VN,L=BÌNH DƯƠNG,CN=CÔNG TY TNHH MỘT THÀNH VIÊN SƠN MẠNH VỮNG,UID=MST:3702228787</X509SubjectName>
+                <X509Certificate>MIIECDCCAvCgAwIBAgIQVAT//rcDP7MW1nIgG4GWADANBgkqhkiG9w0BAQUFADBOMQswCQYDVQQG&#xD; EwJWTjESMBAGA1UEBwwJSMOgIE7hu5lpMRYwFAYDVQQKEw1WaWV0dGVsIEdyb3VwMRMwEQYDVQQD&#xD; EwpWaWV0dGVsLUNBMB4XDTIwMDQyOTE1NTA0MFoXDTIxMDQyOTE1NTA0MFowgYMxHjAcBgoJkiaJ&#xD; k/IsZAEBDA5NU1Q6MzcwMjIyODc4NzE8MDoGA1UEAwwzQ8OUTkcgVFkgVE5ISCBN4buYVCBUSMOA&#xD; TkggVknDik4gU8agTiBN4bqgTkggVuG7rk5HMRYwFAYDVQQHDA1Cw4xOSCBExq/GoE5HMQswCQYD&#xD; VQQGEwJWTjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAl/px49l3+VxKm38vStl+T24rcWOO&#xD; JlurSWJ02NVQ55qkei7rO8GdBfzj0gUBM4oYVaUCoKZTpnRkNAj1JXIA+zc+LvPAjeR4qKQCW15q&#xD; 7oTIlkOXclrMwxUemL9Y+oADsC0weuKXxenT3QMzz7ULLx+9Fr/yUI9pE8gsCrioziECAwEAAaOC&#xD; AS4wggEqMDUGCCsGAQUFBwEBBCkwJzAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AudmlldHRlbC1j&#xD; YS52bjAdBgNVHQ4EFgQUuO+FLvQ+upRUALG29Tr3kf+r39AwDAYDVR0TAQH/BAIwADAfBgNVHSME&#xD; GDAWgBT+y0EU6V2n2TIN5LIIXPFc7LaytTCBkgYDVR0fBIGKMIGHMIGEoC6gLIYqaHR0cDovL2Ny&#xD; bC52aWV0dGVsLWNhLnZuL1ZpZXR0ZWwtQ0EtdjMuY3JsolKkUDBOMRMwEQYDVQQDDApWaWV0dGVs&#xD; LUNBMRYwFAYDVQQKDA1WaWV0dGVsIEdyb3VwMRIwEAYDVQQHDAlIw6AgTuG7mWkxCzAJBgNVBAYT&#xD; AlZOMA4GA1UdDwEB/wQEAwIF4DANBgkqhkiG9w0BAQUFAAOCAQEAdL8+Z6EyB0bkkVLqDpM2Da7+&#xD; Vwb4jMts3tVpPUrLsHZZD6PrmDDU71zRPQMtT8cplY74Opr6ls8Y3NyTekoyhGFh3rc5+mRwBoTx&#xD; MzezfojRgCNKZjJOwidboo1pw4ZICNtrZn8+7kuXaRu4lgufGAK75uyboFhutqwxXBih2ykkJKAm&#xD; 4WI7cjWFJX1bSCvK55Ufkns4w4/e+BnQyPSc5PSTGo4MdW1/qKvE4pnm69MDjjrnvWMQbLUktw+p&#xD; chKkFyt9PmplC+v4XcIY3VtJWqSPxqEZ/CJcuiobkGo+ik29WlzKhxD6S48Qm4I08viHL28BSPuo&#xD; MJ2pUq7vcztUvQ==</X509Certificate>
+            </X509Data>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>l/px49l3+VxKm38vStl+T24rcWOOJlurSWJ02NVQ55qkei7rO8GdBfzj0gUBM4oYVaUCoKZTpnRk&#xD; NAj1JXIA+zc+LvPAjeR4qKQCW15q7oTIlkOXclrMwxUemL9Y+oADsC0weuKXxenT3QMzz7ULLx+9&#xD; Fr/yUI9pE8gsCrioziE=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+    </Signature>
+</inv:invoice>

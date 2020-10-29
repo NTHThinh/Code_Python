@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type="text/xsl" href="invoice.xsl"?>
+<inv:invoice xmlns:inv="http://laphoadon.gdt.gov.vn/2014/09/invoicexml/v1"
+    xmlns:ns1="http://www.w3.org/2000/09/xmldsig#">
+    <inv:invoiceData id="data">
+        <inv:invoiceType>01GTKT</inv:invoiceType>
+        <inv:templateCode>01GTKT0/001</inv:templateCode>
+        <inv:invoiceSeries>CD/19E</inv:invoiceSeries>
+        <inv:invoiceNumber>0002735</inv:invoiceNumber>
+        <inv:invoiceName>HÓA ĐƠN GIÁ TRỊ GIA TĂNG</inv:invoiceName>
+        <inv:invoiceIssuedDate>2020-09-11T07:52:04.993+07:00</inv:invoiceIssuedDate>
+        <inv:invoiceSignedDate>2020-09-11T07:52:04.993+07:00</inv:invoiceSignedDate>
+        <inv:currencyCode>VND</inv:currencyCode>
+        <inv:adjustmentType>1</inv:adjustmentType>
+        <inv:seller>
+            <inv:sellerCode/>
+            <inv:sellerLegalName>CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ ĐIỆN CƠ HUY</inv:sellerLegalName>
+            <inv:sellerTaxCode>3702215153</inv:sellerTaxCode>
+            <inv:sellerAddressLine>Số 207, Ấp An Phú, Xã An Sơn, Thành phố Thuận An, Tỉnh Bình Dương, Việt Nam</inv:sellerAddressLine>
+            <inv:sellerDistrictName>TX Thuận An</inv:sellerDistrictName>
+            <inv:sellerCityName>Bình Dương</inv:sellerCityName>
+            <inv:sellerCountryCode>84</inv:sellerCountryCode>
+            <inv:sellerPhoneNumber>0274.3719444</inv:sellerPhoneNumber>
+            <inv:sellerFaxNumber>0274.3745601</inv:sellerFaxNumber>
+            <inv:sellerEmail>huydienco@yahoo.com.vn</inv:sellerEmail>
+            <inv:sellerBankName>Tại Ngân Hàng Vietcombank Bình Dương</inv:sellerBankName>
+            <inv:sellerBankAccount>0281000330926</inv:sellerBankAccount>
+            <inv:sellerContactPersonName>anh huy</inv:sellerContactPersonName>
+            <inv:sellerContactPersonPhoneNumber/>
+            <inv:sellerContactPersonEmail>huydienco@yahoo.com.vn</inv:sellerContactPersonEmail>
+            <inv:sellerWebsite/>
+            <inv:sellerBusinessLicenseNo>3702215153</inv:sellerBusinessLicenseNo>
+            <inv:sellerRepresentative>Trần Thế Huy</inv:sellerRepresentative>
+            <inv:sellerBankAccountOwner/>
+            <inv:sellerRepresentativeIdType>1</inv:sellerRepresentativeIdType>
+            <inv:sellerSearchInvoiceLink/>
+            <inv:sellerRepresentativeIdNo>280628126</inv:sellerRepresentativeIdNo>
+        </inv:seller>
+        <inv:buyer>
+            <inv:buyerCode/>
+            <inv:buyerDisplayName/>
+            <inv:buyerLegalName>CÔNG TY TNHH THIẾT KẾ VÀ TRANG TRÍ NỘI THẤT LỘC KHANG</inv:buyerLegalName>
+            <inv:buyerTaxCode>3702371794</inv:buyerTaxCode>
+            <inv:buyerAddressLine>7 Lê Thị Trung, Phường Phú Lợi, Thành phố Thủ Dầu Một, Tỉnh Bình Dương</inv:buyerAddressLine>
+            <inv:buyerPostalCode/>
+            <inv:buyerCityName/>
+            <inv:buyerCountryCode/>
+            <inv:buyerPhoneNumber/>
+            <inv:buyerFaxNumber/>
+            <inv:buyerEmail>letankhoa@gmail.com</inv:buyerEmail>
+            <inv:buyerBankName/>
+            <inv:buyerBankAccount/>
+            <inv:buyerIdType>1</inv:buyerIdType>
+            <inv:buyerIdNo>LỘC KHANG</inv:buyerIdNo>
+        </inv:buyer>
+        <inv:items>
+            <inv:item>
+                <inv:lineNumber>1</inv:lineNumber>
+                <inv:itemCode>9553B</inv:itemCode>
+                <inv:itemName>Máy mài Makita 9553B</inv:itemName>
+                <inv:unitName>cái</inv:unitName>
+                <inv:unitPrice>1050000</inv:unitPrice>
+                <inv:quantity>1</inv:quantity>
+                <inv:selection>1</inv:selection>
+                <inv:itemTotalAmountWithoutVat>1050000</inv:itemTotalAmountWithoutVat>
+                <inv:vatPercentage>0</inv:vatPercentage>
+                <inv:vatAmount>0</inv:vatAmount>
+                <inv:discount>0</inv:discount>
+                <inv:itemDiscount>0</inv:itemDiscount>
+            </inv:item>
+        </inv:items>
+        <inv:discountItems/>
+        <inv:invoiceTaxBreakdowns>
+            <inv:invoiceTaxBreakdowns>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatTaxableAmount>1050000</inv:vatTaxableAmount>
+                <inv:vatTaxAmount>105000</inv:vatTaxAmount>
+            </inv:invoiceTaxBreakdowns>
+        </inv:invoiceTaxBreakdowns>
+        <inv:payments>
+            <inv:payment>
+                <inv:paymentMethodName>Tiền mặt</inv:paymentMethodName>
+            </inv:payment>
+        </inv:payments>
+        <inv:sumOfTotalLineAmountWithoutVAT>1050000</inv:sumOfTotalLineAmountWithoutVAT>
+        <inv:totalAmountWithoutVAT>1050000</inv:totalAmountWithoutVAT>
+        <inv:totalVATAmount>105000</inv:totalVATAmount>
+        <inv:totalAmountWithVAT>1155000</inv:totalAmountWithVAT>
+        <inv:totalAmountWithVATInWords>Một triệu một trăm năm mươi lăm nghìn đồng</inv:totalAmountWithVATInWords>
+        <inv:discountAmount>0</inv:discountAmount>
+        <inv:settlementDiscountAmount>0</inv:settlementDiscountAmount>
+        <inv:userDefines>&lt;reservationCode&gt;OZJI09J05D&lt;/reservationCode&gt;</inv:userDefines>
+        <inv:customDefines>
+            <inv:reservationCode>OZJI09J05D</inv:reservationCode>
+        </inv:customDefines>
+        <inv:userName>3702215153</inv:userName>
+        <inv:transactionUuid>b6162a1a-936c-415c-bb19-7dbb7c6b576a</inv:transactionUuid>
+    </inv:invoiceData>
+    <Barcode>3702215153|01GTKT0/001|1|CD/19E0002735|3702371794|11/09/2020|1155000.0000</Barcode>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="seller">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+            <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+            <Reference URI="">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                <DigestValue>BgycNFb/d35vdknB/P9KEkg+g4c=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>ODVpGLwEuCCpecB0SqV4ncG/3H1PR/SNBTWb3Ib4UgsPNJe5Z8iqJaj2dEmS9Bxd/jwGHLp1hX0W&#xD; rTYZBvna36BgRdvXGMDA6a0gWB4c/oU+LHb3aa8w+Y+zrVXOfuJvLg9gv0BRK6ldgxor1doU4f5f&#xD; L8tWAJPOzzWSV/E296w=</SignatureValue>
+        <KeyInfo>
+            <X509Data>
+                <X509SubjectName>C=VN,L=BÌNH DƯƠNG,CN=CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ ĐIỆN CƠ HUY,UID=MST:3702215153</X509SubjectName>
+                <X509Certificate>MIIEDTCCAvWgAwIBAgIQVAT//rcDP7MW1nIgG3/3VzANBgkqhkiG9w0BAQUFADBOMQswCQYDVQQG&#xD;
+EwJWTjESMBAGA1UEBwwJSMOgIE7hu5lpMRYwFAYDVQQKEw1WaWV0dGVsIEdyb3VwMRMwEQYDVQQD&#xD;
+EwpWaWV0dGVsLUNBMB4XDTE5MTIxMDExMTk1OFoXDTIxMTIxMDExMTk1OFowgYgxHjAcBgoJkiaJ&#xD;
+k/IsZAEBDA5NU1Q6MzcwMjIxNTE1MzFBMD8GA1UEAww4Q8OUTkcgVFkgVE5ISCBUSMavxqBORyBN&#xD;
+4bqgSSBE4buKQ0ggVuG7pCDEkEnhu4ZOIEPGoCBIVVkxFjAUBgNVBAcMDULDjE5IIETGr8agTkcx&#xD;
+CzAJBgNVBAYTAlZOMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCXcYkAMHgifyzpvcWRFKuG&#xD;
+JFkPv9AXNSJf2/bDU+aHUAWr96ZSliUxEKyLuvDkvyCobwRSYK6zwp97TZvn012VUS5w1ZJX9Fq+&#xD;
+IDZx362fxSPyg3YhdXHqb9YTQ1p4MrTa8wjp/h1VY0bT3AJDzIjOLUbIEN/CPW+CuEQSK91QjwID&#xD;
+AQABo4IBLjCCASowNQYIKwYBBQUHAQEEKTAnMCUGCCsGAQUFBzABhhlodHRwOi8vb2NzcC52aWV0&#xD;
+dGVsLWNhLnZuMB0GA1UdDgQWBBT7fWME0EANGOXoQuNTNqnBUn2eOjAMBgNVHRMBAf8EAjAAMB8G&#xD;
+A1UdIwQYMBaAFP7LQRTpXafZMg3ksghc8VzstrK1MIGSBgNVHR8EgYowgYcwgYSgLqAshipodHRw&#xD;
+Oi8vY3JsLnZpZXR0ZWwtY2Eudm4vVmlldHRlbC1DQS12My5jcmyiUqRQME4xEzARBgNVBAMMClZp&#xD;
+ZXR0ZWwtQ0ExFjAUBgNVBAoMDVZpZXR0ZWwgR3JvdXAxEjAQBgNVBAcMCUjDoCBO4buZaTELMAkG&#xD;
+A1UEBhMCVk4wDgYDVR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBBQUAA4IBAQCpQDBki7OOnJyBFR7/&#xD;
++ZGfc+nFPRWTd5dzCndq4yjjVi6OPSZfAN0dpK3jpkjn4h+dpvj0J4sLUvzOC9NPyisQ7QbL+uRM&#xD;
+d83FZTHY/WaJC99H5eM0CkWtu0e0urhmv7xJknQrtKVJHs1nhPkAIKh1wZTaDwyDbXyVmWN4a2Fu&#xD;
+HdvtqfR1XrlmrpWtEv2J0Voa0i+K6rfYIC6jFE/MngIzowMfNGicmxfGsUXETBOZDL33vvFX+i5Z&#xD;
+7RbsSFvDUus4D8Yu2jvWYZNHKIG8k676f5ZqOGs+vAzCb/ZzMpnUxv+dwi2b5zTIWAyNMkg/ly+y&#xD;
+3u0yQ5U74RDbTQ9WF74b</X509Certificate>
+            </X509Data>
+            <KeyValue>
+                <RSAKeyValue>
+                    <Modulus>l3GJADB4In8s6b3FkRSrhiRZD7/QFzUiX9v2w1Pmh1AFq/emUpYlMRCsi7rw5L8gqG8EUmCus8Kf&#xD; e02b59NdlVEucNWSV/RaviA2cd+tn8Uj8oN2IXVx6m/WE0NaeDK02vMI6f4dVWNG09wCQ8yIzi1G&#xD; yBDfwj1vgrhEEivdUI8=</Modulus>
+                    <Exponent>AQAB</Exponent>
+                </RSAKeyValue>
+            </KeyValue>
+        </KeyInfo>
+    </Signature>
+</inv:invoice>

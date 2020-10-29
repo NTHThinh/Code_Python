@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="invoice.xsl"?>
+<inv:invoice xmlns:inv="http://laphoadon.gdt.gov.vn/2014/09/invoicexml/v1"
+    xmlns:ns1="http://www.w3.org/2000/09/xmldsig#">
+    <inv:invoiceData id="data">
+        <inv:invoiceType>01GTKT</inv:invoiceType>
+        <inv:templateCode>01GTKT0/001</inv:templateCode>
+        <inv:invoiceSeries>AK/19E</inv:invoiceSeries>
+        <inv:invoiceNumber>0001164</inv:invoiceNumber>
+        <inv:invoiceName>HÓA ĐƠN GIÁ TRỊ GIA TĂNG</inv:invoiceName>
+        <inv:invoiceIssuedDate>2020-09-17T09:45:50.521+07:00</inv:invoiceIssuedDate>
+        <inv:invoiceSignedDate>2020-09-17T09:45:50.521+07:00</inv:invoiceSignedDate>
+        <inv:currencyCode>VND</inv:currencyCode>
+        <inv:invoiceNote/>
+        <inv:adjustmentType>1</inv:adjustmentType>
+        <inv:seller>
+            <inv:sellerCode/>
+            <inv:sellerLegalName>CÔNG TY TNHH MỘT THÀNH VIÊN ANH KIÊN</inv:sellerLegalName>
+            <inv:sellerTaxCode>3701697874</inv:sellerTaxCode>
+            <inv:sellerAddressLine>Số 292 Đại lộ Bình Dương, Phường Phú Hòa, Thành phố Thủ Dầu Một, Tỉnh Bình Dương</inv:sellerAddressLine>
+            <inv:sellerPhoneNumber>(0274)3.844.050</inv:sellerPhoneNumber>
+            <inv:sellerFaxNumber>(0274)3.844.050</inv:sellerFaxNumber>
+            <inv:sellerEmail>congtyanhkien@gmail.com</inv:sellerEmail>
+            <inv:sellerBankName>NH TMCP Sài Gòn - Hà Nội, Chi nhánh Bình Dương</inv:sellerBankName>
+            <inv:sellerBankAccount>1000051448</inv:sellerBankAccount>
+            <inv:sellerContactPersonName/>
+            <inv:sellerContactPersonPhoneNumber/>
+            <inv:sellerContactPersonEmail/>
+            <inv:sellerWebsite>dungcudiencamtay.net</inv:sellerWebsite>
+            <inv:sellerBusinessLicenseNo>3701697874</inv:sellerBusinessLicenseNo>
+            <inv:sellerRepresentative/>
+            <inv:sellerBankAccountOwner/>
+            <inv:sellerRepresentativeIdType>3</inv:sellerRepresentativeIdType>
+            <inv:sellerSearchInvoiceLink/>
+            <inv:sellerRepresentativeIdNo>205036298</inv:sellerRepresentativeIdNo>
+        </inv:seller>
+        <inv:buyer>
+            <inv:buyerCode>371794</inv:buyerCode>
+            <inv:buyerDisplayName/>
+            <inv:buyerLegalName>CÔNG TY TNHH THIẾT KẾ VÀ TRANG TRÍ NỘI THẤT LỘC KHANG</inv:buyerLegalName>
+            <inv:buyerTaxCode>3702371794</inv:buyerTaxCode>
+            <inv:buyerAddressLine>Số 7, Lê Thị Trung, Phường Phú Lợi , Thành Phố Thủ Dầu Một, Tỉnh Bình Dương</inv:buyerAddressLine>
+            <inv:buyerPostalCode/>
+            <inv:buyerDistrictName/>
+            <inv:buyerCityName/>
+            <inv:buyerCountryCode/>
+            <inv:buyerPhoneNumber>0909090909</inv:buyerPhoneNumber>
+            <inv:buyerFaxNumber/>
+            <inv:buyerEmail>letankhoa@gmail.com</inv:buyerEmail>
+            <inv:buyerBankName/>
+            <inv:buyerBankAccount/>
+            <inv:buyerIdType>1</inv:buyerIdType>
+            <inv:buyerIdNo>123456</inv:buyerIdNo>
+            <inv:buyerBirthDay/>
+        </inv:buyer>
+        <inv:items>
+            <inv:item>
+                <inv:lineNumber>1</inv:lineNumber>
+                <inv:itemCode>GA6010</inv:itemCode>
+                <inv:itemName>Máy mài 1t5 Makita GA6010</inv:itemName>
+                <inv:unitName>CÁI</inv:unitName>
+                <inv:unitPrice>2027000</inv:unitPrice>
+                <inv:quantity>1</inv:quantity>
+                <inv:selection>1</inv:selection>
+                <inv:itemTotalAmountWithoutVat>2027000</inv:itemTotalAmountWithoutVat>
+                <inv:itemTotalAmountWithVat>2027000</inv:itemTotalAmountWithVat>
+                <inv:itemTotalAmountAfterDiscount>0</inv:itemTotalAmountAfterDiscount>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatAmount>0</inv:vatAmount>
+                <inv:discount>0</inv:discount>
+                <inv:itemDiscount>0</inv:itemDiscount>
+            </inv:item>
+            <inv:item>
+                <inv:lineNumber>2</inv:lineNumber>
+                <inv:itemCode>14245</inv:itemCode>
+                <inv:itemName>Găng tay da vải an toàn size L Truper 14245 Gu-Teca</inv:itemName>
+                <inv:unitName>CÁI</inv:unitName>
+                <inv:unitPrice>68400</inv:unitPrice>
+                <inv:quantity>1</inv:quantity>
+                <inv:selection>1</inv:selection>
+                <inv:itemTotalAmountWithoutVat>68400</inv:itemTotalAmountWithoutVat>
+                <inv:itemTotalAmountWithVat>68400</inv:itemTotalAmountWithVat>
+                <inv:itemTotalAmountAfterDiscount>0</inv:itemTotalAmountAfterDiscount>
+                <inv:vatPercentage>0</inv:vatPercentage>
+                <inv:vatAmount>0</inv:vatAmount>
+                <inv:discount>0</inv:discount>
+                <inv:itemDiscount>0</inv:itemDiscount>
+            </inv:item>
+            <inv:item>
+                <inv:lineNumber>3</inv:lineNumber>
+                <inv:itemCode>D00066</inv:itemCode>
+                <inv:itemName>D-00066 Mũi khoan bê tông SDS-PLUS 6X160</inv:itemName>
+                <inv:unitName>CÁI</inv:unitName>
+                <inv:unitPrice>18200</inv:unitPrice>
+                <inv:quantity>3</inv:quantity>
+                <inv:selection>1</inv:selection>
+                <inv:itemTotalAmountWithoutVat>54600</inv:itemTotalAmountWithoutVat>
+                <inv:itemTotalAmountWithVat>54600</inv:itemTotalAmountWithVat>
+                <inv:itemTotalAmountAfterDiscount>0</inv:itemTotalAmountAfterDiscount>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatAmount>0</inv:vatAmount>
+                <inv:discount>0</inv:discount>
+                <inv:itemDiscount>0</inv:itemDiscount>
+            </inv:item>
+            <inv:item>
+                <inv:lineNumber>4</inv:lineNumber>
+                <inv:itemCode>D08729</inv:itemCode>
+                <inv:itemName>D-08729 mũi đục dẹp</inv:itemName>
+                <inv:unitName>CÁI</inv:unitName>
+                <inv:unitPrice>50000</inv:unitPrice>
+                <inv:quantity>1</inv:quantity>
+                <inv:selection>1</inv:selection>
+                <inv:itemTotalAmountWithoutVat>50000</inv:itemTotalAmountWithoutVat>
+                <inv:itemTotalAmountWithVat>50000</inv:itemTotalAmountWithVat>
+                <inv:itemTotalAmountAfterDiscount>0</inv:itemTotalAmountAfterDiscount>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatAmount>0</inv:vatAmount>
+                <inv:discount>0</inv:discount>
+                <inv:itemDiscount>0</inv:itemDiscount>
+            </inv:item>
+        </inv:items>
+        <inv:discountItems/>
+        <inv:invoiceTaxBreakdowns>
+            <inv:invoiceTaxBreakdowns>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatTaxableAmount>2200000</inv:vatTaxableAmount>
+                <inv:vatTaxAmount>220000</inv:vatTaxAmount>
+            </inv:invoiceTaxBreakdowns>
+        </inv:invoiceTaxBreakdowns>
+        <inv:payments>
+            <inv:payment>
+                <inv:paymentMethodName>TM/CK</inv:paymentMethodName>
+            </inv:payment>
+        </inv:payments>
+        <inv:sumOfTotalLineAmountWithoutVAT>2200000</inv:sumOfTotalLineAmountWithoutVAT>
+        <inv:totalAmountWithoutVAT>2200000</inv:totalAmountWithoutVAT>
+        <inv:totalVATAmount>220000</inv:totalVATAmount>
+        <inv:totalAmountWithVAT>2420000</inv:totalAmountWithVAT>
+        <inv:totalAmountAfterDiscount>0</inv:totalAmountAfterDiscount>
+        <inv:totalAmountWithVATInWords>Hai triệu bốn trăm hai mươi nghìn đồng</inv:totalAmountWithVATInWords>
+        <inv:discountAmount>0</inv:discountAmount>
+        <inv:userDefines>&lt;reservationCode&gt;NMFE1DITFM&lt;/reservationCode&gt;</inv:userDefines>
+        <inv:customDefines>
+            <inv:reservationCode>NMFE1DITFM</inv:reservationCode>
+        </inv:customDefines>
+        <inv:metadata>
+            <inv:invoiceNote/>
+        </inv:metadata>
+        <inv:userName>3701697874</inv:userName>
+    </inv:invoiceData>
+    <Barcode>3701697874|01GTKT0/001|1|AK/19E0001164|3702371794|17/09/2020|2420000</Barcode>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="seller">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+            <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+            <Reference URI="">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+                <DigestValue>BTJx8JsOHn7jFDTP35AV3PPTb1k=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>uHDw/L9qmK61wTUs17eL/FXicjbKRha6iWcncX8VntX6Hnir1XvqhjF1fmqyAMOSlivLqZPPTMs+3ZWtipmaj0sYcPLWJ9EqyT2n4zGdcTHW6jfumYdy/qQGBj+Nv8/yn64rhnHiur/DqUhd+qCICwGhD7jovVMRzG72o39bbkU=</SignatureValue>
+        <KeyInfo>
+            <X509Data>
+                <X509SubjectName>C=VN,L=BÌNH DƯƠNG,CN=CÔNG TY TNHH MỘT THÀNH VIÊN ANH KIÊN,UID=MST:3701697874</X509SubjectName>
+                <X509Certificate>MIIEHTCCAwWgAwIBAgIQVAT//rcDP7MW1nIgG4GtODANBgkqhkiG9w0BAQUFADBOMQswCQYDVQQG EwJWTjESMBAGA1UEBwwJSMOgIE7hu5lpMRYwFAYDVQQKEw1WaWV0dGVsIEdyb3VwMRMwEQYDVQQD EwpWaWV0dGVsLUNBMB4XDTIwMDUwOTAzNDU1NloXDTIzMDUxMDAzNDU1NlowejEeMBwGCgmSJomT 8ixkAQEMDk1TVDozNzAxNjk3ODc0MTMwMQYDVQQDDCpDw5RORyBUWSBUTkhIIE3hu5hUIFRIw4BO SCBWScOKTiBBTkggS0nDik4xFjAUBgNVBAcMDULDjE5IIETGr8agTkcxCzAJBgNVBAYTAlZOMIGf MA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDbiNsAB7+LHoRZPpdQ23MvldoE1kpE9iCH25jey7sy 97Jw1Tzyic5jgIppnKMwkbHzWSNgs9egJkarCZBWpqIQh9M4oMYMSegnrkQ7i3Q0VIToEMALSI4S XTgGgLem0IfqIzVPkAVaIxxFsEYcbjIUAmbr1zk4akbS+8USUg/QlQIDAQABo4IBTTCCAUkwNQYI KwYBBQUHAQEEKTAnMCUGCCsGAQUFBzABhhlodHRwOi8vb2NzcC52aWV0dGVsLWNhLnZuMB0GA1Ud DgQWBBTB6N3V4D8bJpw7wooGD3Z9JRKRTjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFP7LQRTp XafZMg3ksghc8VzstrK1MIGSBgNVHR8EgYowgYcwgYSgLqAshipodHRwOi8vY3JsLnZpZXR0ZWwt Y2Eudm4vVmlldHRlbC1DQS12My5jcmyiUqRQME4xEzARBgNVBAMMClZpZXR0ZWwtQ0ExFjAUBgNV BAoMDVZpZXR0ZWwgR3JvdXAxEjAQBgNVBAcMCUjDoCBO4buZaTELMAkGA1UEBhMCVk4wDgYDVR0P AQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDANBgkqhkiG9w0BAQUFAAOC AQEAJgnzVoXJLA8QPKWZ/gjnwj29NLTuW3c88boU47+M2pNoTQXL0k81O0V0NeH0K/cky+rZQmsi 7UJzvuUKoYKdnyPn+GofR9OuloKTJEypuTWKoVKal0VM+W1+tA/1Kbvj5+9hwgxL/TEy3PN+8oE6 EsAnq6/mboy3TC6oN6Bv/IIrPIQv9LKJWXZwhQRnThss+bbfceFzHxbQzNj5/lQRCtPgjJkt/0jK tDblaAbN6n+C1sif6pKakGciuC0bGbkUYISW3wJmp6uc9bR+TIQ36yuwyqrKKdxP+7Rc335Nv0qZ oXiksOfWS/sZrmB1VV0Qb+9JLzPQ9FihX/5CP/uA0Q==</X509Certificate>
+            </X509Data>
+        </KeyInfo>
+    </Signature>
+</inv:invoice>

@@ -1,0 +1,92 @@
+<?xml-stylesheet type='text/xsl' href='http://0306621477.easyinvoice.vn/InvoiceTemplate/GetXSLTbyPattern/32498?pattern=01GTKT0/001' ?>
+<Invoice>
+    <Content Id="SigningData">
+        <Key>H6D3J7S30203898016911840</Key>
+        <ArisingDate>27/07/2020</ArisingDate>
+        <ComFax>(028) 5443 1794</ComFax>
+        <ComName>CÔNG TY TNHH MỘT THÀNH VIÊN THƯƠNG MẠI SẢN XUẤT HOÀNG ĐẠO</ComName>
+        <ComTaxCode>0306621477</ComTaxCode>
+        <ComAddress>37/5D, Quốc lộ 1K, Khu phố 1, Phường Linh Xuân, Quận Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam</ComAddress>
+        <ComPhone>(028) 5443.1699/5443.0058/5443.2799</ComPhone>
+        <ComEmail>nhomkinhhoangdao@gmail.com</ComEmail>
+        <ComBankNo>6100201003224</ComBankNo>
+        <ComBankName>tại Ngân hàng Agribank Chi nhánh Thủ Đức - PGD Linh Xuân</ComBankName>
+        <ComBankNo2>209721719</ComBankNo2>
+        <ComBankName2>tại Ngân hàng ACB, PGD Linh Xuân</ComBankName2>
+        <Ikey>A002647949HDV</Ikey>
+        <ParentName></ParentName>
+        <InvoiceName>Hóa đơn giá trị gia tăng</InvoiceName>
+        <InvoicePattern>01GTKT0/001</InvoicePattern>
+        <SerialNo>HD/20E</SerialNo>
+        <InvoiceNo>253</InvoiceNo>
+        <PaymentMethod>TM/CK</PaymentMethod>
+        <CusCode>TANTIENTHANH</CusCode>
+        <CusName>Công Ty TNHH á Châu WINDOWS</CusName>
+        <CusTaxCode>3702454063</CusTaxCode>
+        <CusPhone></CusPhone>
+        <CusAddress>Số 7 Lê Thị Trung - Phường Phú Lợi - Thành phố Thủ Dầu Một - Tỉnh Bình Dương</CusAddress>
+        <CusBankName></CusBankName>
+        <CusBankNo></CusBankNo>
+        <Total>17680000</Total>
+        <VATAmount>1768000</VATAmount>
+        <Amount>19448000</Amount>
+        <AmountInWords>Mười chín triệu, bốn trăm bốn mươi tám nghìn đồng.</AmountInWords>
+        <Buyer></Buyer>
+        <VATRate>10</VATRate>
+        <Note></Note>
+        <CusEmails></CusEmails>
+        <Extra />
+        <Products>
+            <Product>
+                <Code>T8LY</Code>
+                <ProdName>Kính Trắng 8ly</ProdName>
+                <ProdPrice>136000</ProdPrice>
+                <ProdQuantity>130</ProdQuantity>
+                <ProdType>1</ProdType>
+                <ProdUnit>M2</ProdUnit>
+                <Extra></Extra>
+                <Total>17680000</Total>
+                <Amount>17680000</Amount>
+                <IsDiscountRow>0</IsDiscountRow>
+            </Product>
+        </Products>
+        <GrossValue>0</GrossValue>
+        <GrossValue0>0</GrossValue0>
+        <VatAmount0>0</VatAmount0>
+        <GrossValue5>0</GrossValue5>
+        <VatAmount5>0</VatAmount5>
+        <GrossValue10>17680000</GrossValue10>
+        <VatAmount10>1768000</VatAmount10>
+        <GrossValueNDeclared>0</GrossValueNDeclared>
+        <VatAmountNDeclared>0</VatAmountNDeclared>
+        <GrossValueContractor>0</GrossValueContractor>
+        <VatAmountContractor>0</VatAmountContractor>
+        <ExchangeRate>1</ExchangeRate>
+        <CurrencyUnit>VND</CurrencyUnit>
+        <PortalLink>http://0306621477hd.easyinvoice.vn</PortalLink>
+        <Hidden>False</Hidden>
+        <SignDate>27/07/2020</SignDate>
+    </Content>
+    <RowPerPage>10</RowPerPage>
+    <qrCodeData>H6D3J7S30203898016911840|01GTKT0/001;HD/20E;0306621477;3702454063;253;19448000;1768000;27/07/2020 12:00:00 SA;32498</qrCodeData>
+    <Signature Id="serSig"
+        xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+            <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+            <Reference URI="#SigningData">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <DigestValue>JZ84Nhp8CUuOXeriD2wZt6gKTeU=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>NvL9B+QXgnyscE2UD2iJbnqDz8ZcHewkEh2A06F6op6rRcJdQUbXeqQBusGG7ZZYU7VXolGbHiFMtawhM9S/7UTzhub15S3hDcZ/D+EzBDdVr0SyliotcVcxaPp0wmNAmMRXgNEPQbbocBITlfrb5vp1LwJBqxraG8pdpW3qfjw=</SignatureValue>
+        <KeyInfo>
+            <X509Data>
+                <X509Certificate>MIIERzCCAy+gAwIBAgIQVAMHYqRTjy0Yaw7UC9YMtTANBgkqhkiG9w0BAQUFADBJMQswCQYDVQQGEwJWTjEOMAwGA1UEBxMFSGFub2kxGTAXBgNVBAoTEEJrYXYgQ29ycG9yYXRpb24xDzANBgNVBAMTBkJrYXZDQTAeFw0yMDA1MDcwMTU0MDdaFw0yNDA1MTAwODAzMDdaMIGbMR4wHAYKCZImiZPyLGQBAQwOTVNUOjAzMDY2MjE0NzcxUzBRBgNVBAMMSkPDtG5nIFR5IFROSEggTeG7mXQgVGjDoG5oIFZpw6puIFRoxrDGoW5nIE3huqFpIFPhuqNuIFh14bqldCBIb8OgbmcgxJDhuqFvMRcwFQYDVQQIDA5I4buTIENow60gTWluaDELMAkGA1UEBhMCVk4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAK/A5Nz3TnnlPqfMectDdM71slxM/gFFB/3Zfgc4Yyom6EFPRys3lxoZgZuTjlzMZTkaJF/v/SMPkmIafQ9u63Zb0O+9cqAFd9vNwujootVgysOXLTJ5lQsyZUHutue6/GdFO/peRxOfN7DkRI3/n8CEGof1FsDALZ+g0ESoGk3XAgMBAAGjggFaMIIBVjAxBggrBgEFBQcBAQQlMCMwIQYIKwYBBQUHMAGGFWh0dHA6Ly9vY3NwLmJrYXZjYS52bjAdBgNVHQ4EFgQU8E2WtgTdYQtgU3HsvAvm6jRKvUMwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBQesA9Il9/Qw2enRoQ7WDuIDVOUhjB/BgNVHR8EeDB2MHSgI6Ahhh9odHRwOi8vY3JsLmJrYXZjYS52bi9Ca2F2Q0EuY3Jsok2kSzBJMQ8wDQYDVQQDDAZCa2F2Q0ExGTAXBgNVBAoMEEJrYXYgQ29ycG9yYXRpb24xDjAMBgNVBAcMBUhhbm9pMQswCQYDVQQGEwJWTjAOBgNVHQ8BAf8EBAMCBPAwHwYDVR0lBBgwFgYIKwYBBQUHAwQGCisGAQQBgjcKAwwwIQYDVR0RBBowGIEWdGhsZXRoaWhvYTg3QGdtYWlsLmNvbTANBgkqhkiG9w0BAQUFAAOCAQEAM4izzm3h6IJV3GvQn42zu4r8M5KIHVIDz5cIrQFutzL3FmJOW4rvIOVSTQHsqSXXI9gu3Ft8ZPEejJAHJ6mb4j1s1F6D3IBK/e+Dap6PTQ6TEapJoAw8v1c0THTt+mK/7KQGlu5pu/aE5iHlcOxEJu7C5z4/lLDf2+3tXxQITs3BR6JI6rh9MnJEv5lI105ydYwVKi/U/5dNPTs4of1pg2gcIuwG7NCMSoV273VoGLg4yCSFOhZnH2/mLaJJ/cjkK5q+CrMxoL5RLmiik6MqKDiUy7zftZET+0eqk7+WSqwMVbWNhglqn/AFH8DILHqmLljchgZy4UmYsB5pCACR5w==</X509Certificate>
+            </X509Data>
+        </KeyInfo>
+    </Signature>
+</Invoice>

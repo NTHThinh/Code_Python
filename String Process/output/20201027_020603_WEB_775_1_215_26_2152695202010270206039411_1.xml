@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<inv:invoice xmlns:inv="http://laphoadon.gdt.gov.vn/2014/09/invoicexml/v1"
+    xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+    <inv:invoiceData id="data">
+        <inv:invoiceType>01GTKT</inv:invoiceType>
+        <inv:templateCode>01GTKT0/001</inv:templateCode>
+        <inv:invoiceSeries>LT/20E</inv:invoiceSeries>
+        <inv:invoiceNumber>0000878</inv:invoiceNumber>
+        <inv:invoiceIssuedDate>2020-08-07T00:00:00</inv:invoiceIssuedDate>
+        <inv:signedDate>2020-08-07T17:36:13</inv:signedDate>
+        <inv:currencyCode>VND</inv:currencyCode>
+        <inv:adjustmentType>1</inv:adjustmentType>
+        <inv:payments>
+            <inv:payment>
+                <inv:paymentMethodName>TM/CK</inv:paymentMethodName>
+            </inv:payment>
+        </inv:payments>
+        <inv:delivery />
+        <inv:sellerLegalName>CÔNG TY TNHH ĐIỆN LẠNH TIẾN LỘC TÀI</inv:sellerLegalName>
+        <inv:sellerTaxCode>3702085497</inv:sellerTaxCode>
+        <inv:sellerAddressLine>129V, đường Huỳnh Văn Cù, khu 11, Phường Phú Cường, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam</inv:sellerAddressLine>
+        <inv:sellerPhoneNumber></inv:sellerPhoneNumber>
+        <inv:sellerFaxNumber></inv:sellerFaxNumber>
+        <inv:sellerEmail></inv:sellerEmail>
+        <inv:sellerWebSite></inv:sellerWebSite>
+        <inv:sellerBankAccount></inv:sellerBankAccount>
+        <inv:sellerBankName></inv:sellerBankName>
+        <inv:buyerLegalName>CÔNG TY TNHH THIẾT KẾ VÀ TRANG TRÍ NỘI THẤT LỘC KHANG</inv:buyerLegalName>
+        <inv:buyerTaxCode>3702371794</inv:buyerTaxCode>
+        <inv:buyerAddressLine>Số 7 Lê Thị Trung, Phường Phú Lợi, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam</inv:buyerAddressLine>
+        <inv:exchangeRate>1.00 </inv:exchangeRate>
+        <inv:items>
+            <inv:item>
+                <inv:lineNumber>1</inv:lineNumber>
+                <inv:itemName>Máy lạnh Reetech RT9-TA-A/RC9-TA-A</inv:itemName>
+                <inv:unitName>Bộ</inv:unitName>
+                <inv:quantity>2.00 </inv:quantity>
+                <inv:itemTotalAmountWithoutVat>10000000 </inv:itemTotalAmountWithoutVat>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatAmount>1000000 </inv:vatAmount>
+                <inv:unitPrice>5000000.0 </inv:unitPrice>
+                <inv:promotion>0</inv:promotion>
+            </inv:item>
+        </inv:items>
+        <inv:invoiceTaxBreakdowns>
+            <inv:invoiceTaxBreakdown>
+                <inv:vatPercentage>10</inv:vatPercentage>
+            </inv:invoiceTaxBreakdown>
+        </inv:invoiceTaxBreakdowns>
+        <inv:totalAmountWithoutVAT>10000000 </inv:totalAmountWithoutVAT>
+        <inv:totalVATAmount>1000000 </inv:totalVATAmount>
+        <inv:totalAmountWithVAT>11000000 </inv:totalAmountWithVAT>
+        <inv:totalAmountWithVATInWords>Mười một triệu đồng chẵn.</inv:totalAmountWithVATInWords>
+        <inv:discountAmount>0 </inv:discountAmount>
+        <inv:totalAmountWithVATFrn>11000000 </inv:totalAmountWithVATFrn>
+        <inv:userDefines><![CDATA[<AppID>AB0FDDF474E1423FA43D7475AF759166</AppID><TransactionID>38SLI5EJJB_</TransactionID><InvoiceRefID>81d90311-e42f-4320-acdd-1e7c87316b6e</InvoiceRefID><InvoiceTemplateID>d73e072b-844f-4c59-b653-48c9d3c924e7</InvoiceTemplateID><TotalAmountInWordsVN>Mười một triệu đồng chẵn.</TotalAmountInWordsVN><TotalAmountInWordsUnsignNormalVN>Muoi mot trieu dong chan.</TotalAmountInWordsUnsignNormalVN><MainCurrency>VND</MainCurrency><UnitPriceDecimalDigits>1</UnitPriceDecimalDigits><UnitPriceOCDecimalDigits>2</UnitPriceOCDecimalDigits><QuantityDecimalDigits>2</QuantityDecimalDigits><AmountDecimalDigits>0</AmountDecimalDigits><AmountOCDecimalDigits>2</AmountOCDecimalDigits><ExchangRateDecimalDigits>2</ExchangRateDecimalDigits><CoefficientDecimalDigits>2</CoefficientDecimalDigits><AccountObjectCode>LỘC KHANG</AccountObjectCode><UserItems><UserItem><LineNumber>1</LineNumber><AmountOC>10000000 </AmountOC><VATAmountOC>1000000 </VATAmountOC><DiscountRate>0.00 </DiscountRate><DiscountAmountOC>0 </DiscountAmountOC><DiscountAmount>0 </DiscountAmount><InventoryItemType>0</InventoryItemType><InWards>0.00 </InWards><UnitPriceAfterTax>0.0 </UnitPriceAfterTax><AmountAfterTax>0 </AmountAfterTax></UserItem></UserItems>]]></inv:userDefines>
+    </inv:invoiceData>
+    <inv:controlData>
+        <inv:systemCode>LHD_MISA</inv:systemCode>
+    </inv:controlData>
+    <Signature Id="seller"
+        xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+            <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+            <Reference URI="#data">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <DigestValue>pA5to4HmrMC+xMq95T6ZJaU+4Xw=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>lW2zUbW9VPApCwiE3ypqOn9cw1zKbR4EsYuk9XzNJUjHd9Rvn3IHzmijmqYkBfQQh1I8IQCX+0zG5DwXQM6oB/6MHv0B11bWhvAnMoqOFu1X0y7U6jscCzA8BsAN9GpoEGUyI9xYZBLK9j9k9XM020d/imKMWWGoBFl7V0MTTbg=</SignatureValue>
+        <KeyInfo>
+            <X509Data>
+                <X509SubjectName>C=VN, L=BÌNH DƯƠNG, CN=CÔNG TY TNHH ĐIỆN LẠNH TIẾN LỘC TÀI, OID.0.9.2342.19200300.100.1.1=MST:3702085497</X509SubjectName>
+                <X509Certificate>MIIEITCCAwmgAwIBAgIQVAT//rcDP7MW1nIgG4CWqDANBgkqhkiG9w0BAQUFADBOMQswCQYDVQQGEwJWTjESMBAGA1UEBwwJSMOgIE7hu5lpMRYwFAYDVQQKEw1WaWV0dGVsIEdyb3VwMRMwEQYDVQQDEwpWaWV0dGVsLUNBMB4XDTIwMDIxMjEwNDczM1oXDTIzMDIxMjEwNDczM1owfjEeMBwGCgmSJomT8ixkAQEMDk1TVDozNzAyMDg1NDk3MTcwNQYDVQQDDC5Dw5RORyBUWSBUTkhIIMSQSeG7hk4gTOG6oE5IIFRJ4bq+TiBM4buYQyBUw4BJMRYwFAYDVQQHDA1Cw4xOSCBExq/GoE5HMQswCQYDVQQGEwJWTjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAmQfHf6ygquTmPUIfNiY/Eie5JtOaGQUfVRmJiy4wkKmg6vTGuWmiPXaw/7EJAYEapb3LnI7BjEdmTDM2+3d06YBXyYFZQXrirZCrquGWQvkApVut0wSjebj0dj+CSiXrXB7wDh8iBMWR2P91qJogFckyQiV+p7bwdhgTGymtyZ8CAwEAAaOCAU0wggFJMDUGCCsGAQUFBwEBBCkwJzAlBggrBgEFBQcwAYYZaHR0cDovL29jc3AudmlldHRlbC1jYS52bjAdBgNVHQ4EFgQU2173kcq085dNXgShhFVYRqv09ZkwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBT+y0EU6V2n2TIN5LIIXPFc7LaytTCBkgYDVR0fBIGKMIGHMIGEoC6gLIYqaHR0cDovL2NybC52aWV0dGVsLWNhLnZuL1ZpZXR0ZWwtQ0EtdjMuY3JsolKkUDBOMRMwEQYDVQQDDApWaWV0dGVsLUNBMRYwFAYDVQQKDA1WaWV0dGVsIEdyb3VwMRIwEAYDVQQHDAlIw6AgTuG7mWkxCzAJBgNVBAYTAlZOMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwDQYJKoZIhvcNAQEFBQADggEBAFYz3SyrmoNcNsGFEdV36V3ZDb4Nk8h+WqMzsfz1XwW9MRrSc79zj1jaKfrYqx8urURr8H8oOuA/6urBLKPMtBFM0m/M9BDXpAi475nQrf3VgxO7zbrUx8BsF3CwYroMTZ0N+8VjJdglEGE03yUlw98kROMjqPZO/pns/Gez/5Wmo5fhpCThkaTwJFEzNVQNYQS2OMXc1e7Z7QhD4eXA48IZFl1zkcu4sd9Z2qlXj0kBfVzurBqQdvdTJQianqnUl0ncLY1d9Sf2RYOcMhG9lsAVMUElaUR9YTOhmMpjQ1+w52Gu7QQLNyF1jnojdy25CgtQRBTFcltYjYKtxeDmFAA=</X509Certificate>
+            </X509Data>
+        </KeyInfo>
+    </Signature>
+</inv:invoice>

@@ -1,0 +1,20 @@
+{
+	"Mau_hoa_don": "01GTKT0/001",
+	"Ky_hieu_hoa_don": "HD/20E",
+	"So_hoa_don": "0000282",
+	"Ngay_hoa_don": "31/07/2020",
+	"Ten_khach_hang": "Công Ty TNHH á Châu WINDOWS",
+	"Ma_so_thue_khach_hang": "3702454063",
+	"Chi_tiet_hang_hoa": [
+	{
+		"STT": 1,
+		"Ten_san_pham": "Kính trắng 10 ly",
+		"Don_gia": 180000,
+		"So_luong": 97,
+		"Thanh_tien": 17460000
+	}
+	],
+	"Tong_tien": 17460000,
+	"Tong_thue": 1746000,
+	"Tong_tien_sau_thue": 19206000
+}

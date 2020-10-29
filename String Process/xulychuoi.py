@@ -6,7 +6,6 @@ from datetime import date
 file = codecs.open(r"C:\Users\HUU THINH\Code_Python\String Process\Input.txt",'r','utf-8')
 string = file.read()
 
-
 list_Address = re.findall(r"(?<=Địa chỉ:\s).*\w", string)
 list_Ma_so_thue = re.findall(r"(?<=Mã số thuế:\s).*\d",string)
 list_Nganh_nghe = re.findall(r"(?<=Ngành nghề chính:\s).*\w", string)

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<inv:invoice xmlns:inv="http://laphoadon.gdt.gov.vn/2014/09/invoicexml/v1"
+    xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+    <inv:invoiceData id="data">
+        <inv:invoiceType>01GTKT</inv:invoiceType>
+        <inv:templateCode>01GTKT0/001</inv:templateCode>
+        <inv:invoiceSeries>TP/20E</inv:invoiceSeries>
+        <inv:invoiceNumber>0000128</inv:invoiceNumber>
+        <inv:invoiceName>Hóa đơn giá trị gia tăng</inv:invoiceName>
+        <inv:invoiceIssuedDate>2020-09-29T00:00:00</inv:invoiceIssuedDate>
+        <inv:signedDate>2020-09-29T08:09:43</inv:signedDate>
+        <inv:currencyCode>VND</inv:currencyCode>
+        <inv:adjustmentType>1</inv:adjustmentType>
+        <inv:payments>
+            <inv:payment>
+                <inv:paymentMethodName>TM/CK</inv:paymentMethodName>
+            </inv:payment>
+        </inv:payments>
+        <inv:delivery />
+        <inv:sellerLegalName>CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VÀ XÂY DỰNG QUANG THÀNH PHÁT</inv:sellerLegalName>
+        <inv:sellerTaxCode>3702408483</inv:sellerTaxCode>
+        <inv:sellerAddressLine>Số 78A, Khu phố Bình Hòa, Phường Bình Nhâm, Thành phố Thuận An, Tỉnh Bình Dương</inv:sellerAddressLine>
+        <inv:sellerPhoneNumber>0908765123</inv:sellerPhoneNumber>
+        <inv:sellerFaxNumber></inv:sellerFaxNumber>
+        <inv:sellerEmail></inv:sellerEmail>
+        <inv:sellerWebSite></inv:sellerWebSite>
+        <inv:sellerBankAccount></inv:sellerBankAccount>
+        <inv:sellerBankName></inv:sellerBankName>
+        <inv:buyerLegalName>CÔNG TY TNHH THIẾT KẾ VÀ TRANG TRÍ NỘI THẤT LỘC KHANG</inv:buyerLegalName>
+        <inv:buyerTaxCode>3702371794</inv:buyerTaxCode>
+        <inv:buyerAddressLine>7 Lê Thị Trung, phường Phú Lợi, TP. Thủ Dầu Một, tỉnh Bình Dương </inv:buyerAddressLine>
+        <inv:deliveryOrderDate>1900-01-01T00:00:00</inv:deliveryOrderDate>
+        <inv:exchangeRate>1.00 </inv:exchangeRate>
+        <inv:items>
+            <inv:item>
+                <inv:lineNumber>1</inv:lineNumber>
+                <inv:itemCode>THEP6</inv:itemCode>
+                <inv:itemName>Thép phi 6</inv:itemName>
+                <inv:unitName>kg</inv:unitName>
+                <inv:quantity>1556.00 </inv:quantity>
+                <inv:itemTotalAmountWithoutVat>17894000 </inv:itemTotalAmountWithoutVat>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatAmount>1789400 </inv:vatAmount>
+                <inv:unitPrice>11500.00 </inv:unitPrice>
+                <inv:promotion>0</inv:promotion>
+            </inv:item>
+            <inv:item>
+                <inv:lineNumber>2</inv:lineNumber>
+                <inv:itemCode>THEP8</inv:itemCode>
+                <inv:itemName>Thép phi 8</inv:itemName>
+                <inv:unitName>kg</inv:unitName>
+                <inv:quantity>775.00 </inv:quantity>
+                <inv:itemTotalAmountWithoutVat>8912500 </inv:itemTotalAmountWithoutVat>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatAmount>891250 </inv:vatAmount>
+                <inv:unitPrice>11500.00 </inv:unitPrice>
+                <inv:promotion>0</inv:promotion>
+            </inv:item>
+            <inv:item>
+                <inv:lineNumber>3</inv:lineNumber>
+                <inv:itemCode>THEP10</inv:itemCode>
+                <inv:itemName>Thép phi 10</inv:itemName>
+                <inv:unitName>kg</inv:unitName>
+                <inv:quantity>2875.00 </inv:quantity>
+                <inv:itemTotalAmountWithoutVat>33062500 </inv:itemTotalAmountWithoutVat>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatAmount>3306250 </inv:vatAmount>
+                <inv:unitPrice>11500.00 </inv:unitPrice>
+                <inv:promotion>0</inv:promotion>
+            </inv:item>
+            <inv:item>
+                <inv:lineNumber>4</inv:lineNumber>
+                <inv:itemCode>THEP12</inv:itemCode>
+                <inv:itemName>Thép phi 12</inv:itemName>
+                <inv:unitName>kg</inv:unitName>
+                <inv:quantity>1856.30 </inv:quantity>
+                <inv:itemTotalAmountWithoutVat>21161820 </inv:itemTotalAmountWithoutVat>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatAmount>2116182 </inv:vatAmount>
+                <inv:unitPrice>11400.00 </inv:unitPrice>
+                <inv:promotion>0</inv:promotion>
+            </inv:item>
+            <inv:item>
+                <inv:lineNumber>5</inv:lineNumber>
+                <inv:itemCode>THEP14</inv:itemCode>
+                <inv:itemName>Thép phi 14</inv:itemName>
+                <inv:unitName>kg</inv:unitName>
+                <inv:quantity>1883.00 </inv:quantity>
+                <inv:itemTotalAmountWithoutVat>21466200 </inv:itemTotalAmountWithoutVat>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatAmount>2146620 </inv:vatAmount>
+                <inv:unitPrice>11400.00 </inv:unitPrice>
+                <inv:promotion>0</inv:promotion>
+            </inv:item>
+            <inv:item>
+                <inv:lineNumber>6</inv:lineNumber>
+                <inv:itemCode>THEP16</inv:itemCode>
+                <inv:itemName>Thép phi 16</inv:itemName>
+                <inv:unitName>kg</inv:unitName>
+                <inv:quantity>4214.40 </inv:quantity>
+                <inv:itemTotalAmountWithoutVat>48044160 </inv:itemTotalAmountWithoutVat>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatAmount>4804416 </inv:vatAmount>
+                <inv:unitPrice>11400.00 </inv:unitPrice>
+                <inv:promotion>0</inv:promotion>
+            </inv:item>
+            <inv:item>
+                <inv:lineNumber>7</inv:lineNumber>
+                <inv:itemCode>THEP18</inv:itemCode>
+                <inv:itemName>Thép phi 18</inv:itemName>
+                <inv:unitName>kg</inv:unitName>
+                <inv:quantity>2223.00 </inv:quantity>
+                <inv:itemTotalAmountWithoutVat>25342200 </inv:itemTotalAmountWithoutVat>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatAmount>2534220 </inv:vatAmount>
+                <inv:unitPrice>11400.00 </inv:unitPrice>
+                <inv:promotion>0</inv:promotion>
+            </inv:item>
+            <inv:item>
+                <inv:lineNumber>8</inv:lineNumber>
+                <inv:itemCode>THEP1</inv:itemCode>
+                <inv:itemName>Thép phi 1 ly</inv:itemName>
+                <inv:unitName>kg</inv:unitName>
+                <inv:quantity>250.00 </inv:quantity>
+                <inv:itemTotalAmountWithoutVat>3250000 </inv:itemTotalAmountWithoutVat>
+                <inv:vatPercentage>10</inv:vatPercentage>
+                <inv:vatAmount>325000 </inv:vatAmount>
+                <inv:unitPrice>13000.00 </inv:unitPrice>
+                <inv:promotion>0</inv:promotion>
+            </inv:item>
+        </inv:items>
+        <inv:invoiceTaxBreakdowns>
+            <inv:invoiceTaxBreakdown>
+                <inv:vatPercentage>10</inv:vatPercentage>
+            </inv:invoiceTaxBreakdown>
+        </inv:invoiceTaxBreakdowns>
+        <inv:totalAmountWithoutVAT>179133380 </inv:totalAmountWithoutVAT>
+        <inv:totalVATAmount>17913338 </inv:totalVATAmount>
+        <inv:totalAmountWithVAT>197046718 </inv:totalAmountWithVAT>
+        <inv:totalAmountWithVATInWords>Một trăm chín mươi bảy triệu không trăm bốn mươi sáu nghìn bảy trăm mười tám đồng chẵn.</inv:totalAmountWithVATInWords>
+        <inv:discountAmount>0 </inv:discountAmount>
+        <inv:isDiscountAmtPos>0</inv:isDiscountAmtPos>
+        <inv:totalAmountWithVATFrn>197046718 </inv:totalAmountWithVATFrn>
+        <inv:userDefines><![CDATA[<TransactionID>JVS5TD137DB</TransactionID><InvoiceRefID>d7fa962f-97bf-4a1d-a1b0-64457bdaaf26</InvoiceRefID><InvoiceTemplateID>52619e56-66d7-45f1-8820-3772915f77fe</InvoiceTemplateID><MainCurrency>VND</MainCurrency><UnitPriceDecimalDigits>2</UnitPriceDecimalDigits><UnitPriceOCDecimalDigits>2</UnitPriceOCDecimalDigits><QuantityDecimalDigits>2</QuantityDecimalDigits><AmountDecimalDigits>0</AmountDecimalDigits><AmountOCDecimalDigits>2</AmountOCDecimalDigits><ExchangRateDecimalDigits>2</ExchangRateDecimalDigits><CoefficientDecimalDigits>2</CoefficientDecimalDigits><AccountObjectCode>LOCKHANG</AccountObjectCode><TrsContractNo></TrsContractNo><TrsBLNo></TrsBLNo><TrsNameVessel></TrsNameVessel><TrsFlag></TrsFlag><TrsArrival></TrsArrival><TrsDeparture></TrsDeparture><RoomNo></RoomNo><CheckIn></CheckIn><CheckOut></CheckOut><ExciseTaxRate></ExciseTaxRate><ExciseTaxAmount></ExciseTaxAmount><TypeDiscount></TypeDiscount><ListStockName> Kho hàng hóa</ListStockName><UserItems><UserItem><LineNumber>1</LineNumber><AmountOC>17894000 </AmountOC><VATAmountOC>1789400 </VATAmountOC><DiscountRate>0.00 </DiscountRate><DiscountAmountOC>0 </DiscountAmountOC><DiscountAmount>0 </DiscountAmount><InventoryItemType>0</InventoryItemType><InWards>1556</InWards><PanelLengthQuantity>0.00 </PanelLengthQuantity><PanelWidthQuantity>0.00 </PanelWidthQuantity><PanelHeightQuantity>0.00 </PanelHeightQuantity><PanelRadiusQuantity>0.00 </PanelRadiusQuantity><PanelQuantity>0.00 </PanelQuantity><InventoryItemCategoryCode>HH</InventoryItemCategoryCode><InventoryItemCategoryName>Hàng hóa</InventoryItemCategoryName><RowType>0</RowType><MainUnitName>kg</MainUnitName><MainConvertRate>1.00 </MainConvertRate><MainQuantity>1556.00 </MainQuantity><MainUnitPrice>11500.00 </MainUnitPrice></UserItem><UserItem><LineNumber>2</LineNumber><AmountOC>8912500 </AmountOC><VATAmountOC>891250 </VATAmountOC><DiscountRate>0.00 </DiscountRate><DiscountAmountOC>0 </DiscountAmountOC><DiscountAmount>0 </DiscountAmount><InventoryItemType>0</InventoryItemType><InWards>775</InWards><PanelLengthQuantity>0.00 </PanelLengthQuantity><PanelWidthQuantity>0.00 </PanelWidthQuantity><PanelHeightQuantity>0.00 </PanelHeightQuantity><PanelRadiusQuantity>0.00 </PanelRadiusQuantity><PanelQuantity>0.00 </PanelQuantity><InventoryItemCategoryCode>HH</InventoryItemCategoryCode><InventoryItemCategoryName>Hàng hóa</InventoryItemCategoryName><RowType>0</RowType><MainUnitName>kg</MainUnitName><MainConvertRate>1.00 </MainConvertRate><MainQuantity>775.00 </MainQuantity><MainUnitPrice>11500.00 </MainUnitPrice></UserItem><UserItem><LineNumber>3</LineNumber><AmountOC>33062500 </AmountOC><VATAmountOC>3306250 </VATAmountOC><DiscountRate>0.00 </DiscountRate><DiscountAmountOC>0 </DiscountAmountOC><DiscountAmount>0 </DiscountAmount><InventoryItemType>0</InventoryItemType><InWards>2875</InWards><PanelLengthQuantity>0.00 </PanelLengthQuantity><PanelWidthQuantity>0.00 </PanelWidthQuantity><PanelHeightQuantity>0.00 </PanelHeightQuantity><PanelRadiusQuantity>0.00 </PanelRadiusQuantity><PanelQuantity>0.00 </PanelQuantity><InventoryItemCategoryCode>HH</InventoryItemCategoryCode><InventoryItemCategoryName>Hàng hóa</InventoryItemCategoryName><RowType>0</RowType><MainUnitName>kg</MainUnitName><MainConvertRate>1.00 </MainConvertRate><MainQuantity>2875.00 </MainQuantity><MainUnitPrice>11500.00 </MainUnitPrice></UserItem><UserItem><LineNumber>4</LineNumber><AmountOC>21161820 </AmountOC><VATAmountOC>2116182 </VATAmountOC><DiscountRate>0.00 </DiscountRate><DiscountAmountOC>0 </DiscountAmountOC><DiscountAmount>0 </DiscountAmount><InventoryItemType>0</InventoryItemType><InWards>1856</InWards><PanelLengthQuantity>0.00 </PanelLengthQuantity><PanelWidthQuantity>0.00 </PanelWidthQuantity><PanelHeightQuantity>0.00 </PanelHeightQuantity><PanelRadiusQuantity>0.00 </PanelRadiusQuantity><PanelQuantity>0.00 </PanelQuantity><InventoryItemCategoryCode>HH</InventoryItemCategoryCode><InventoryItemCategoryName>Hàng hóa</InventoryItemCategoryName><RowType>0</RowType><MainUnitName>kg</MainUnitName><MainConvertRate>1.00 </MainConvertRate><MainQuantity>1856.30 </MainQuantity><MainUnitPrice>11400.00 </MainUnitPrice></UserItem><UserItem><LineNumber>5</LineNumber><AmountOC>21466200 </AmountOC><VATAmountOC>2146620 </VATAmountOC><DiscountRate>0.00 </DiscountRate><DiscountAmountOC>0 </DiscountAmountOC><DiscountAmount>0 </DiscountAmount><InventoryItemType>0</InventoryItemType><InWards>1883</InWards><PanelLengthQuantity>0.00 </PanelLengthQuantity><PanelWidthQuantity>0.00 </PanelWidthQuantity><PanelHeightQuantity>0.00 </PanelHeightQuantity><PanelRadiusQuantity>0.00 </PanelRadiusQuantity><PanelQuantity>0.00 </PanelQuantity><InventoryItemCategoryCode>HH</InventoryItemCategoryCode><InventoryItemCategoryName>Hàng hóa</InventoryItemCategoryName><RowType>0</RowType><MainUnitName>kg</MainUnitName><MainConvertRate>1.00 </MainConvertRate><MainQuantity>1883.00 </MainQuantity><MainUnitPrice>11400.00 </MainUnitPrice></UserItem><UserItem><LineNumber>6</LineNumber><AmountOC>48044160 </AmountOC><VATAmountOC>4804416 </VATAmountOC><DiscountRate>0.00 </DiscountRate><DiscountAmountOC>0 </DiscountAmountOC><DiscountAmount>0 </DiscountAmount><InventoryItemType>0</InventoryItemType><InWards>4214</InWards><PanelLengthQuantity>0.00 </PanelLengthQuantity><PanelWidthQuantity>0.00 </PanelWidthQuantity><PanelHeightQuantity>0.00 </PanelHeightQuantity><PanelRadiusQuantity>0.00 </PanelRadiusQuantity><PanelQuantity>0.00 </PanelQuantity><InventoryItemCategoryCode>HH</InventoryItemCategoryCode><InventoryItemCategoryName>Hàng hóa</InventoryItemCategoryName><RowType>0</RowType><MainUnitName>kg</MainUnitName><MainConvertRate>1.00 </MainConvertRate><MainQuantity>4214.40 </MainQuantity><MainUnitPrice>11400.00 </MainUnitPrice></UserItem><UserItem><LineNumber>7</LineNumber><AmountOC>25342200 </AmountOC><VATAmountOC>2534220 </VATAmountOC><DiscountRate>0.00 </DiscountRate><DiscountAmountOC>0 </DiscountAmountOC><DiscountAmount>0 </DiscountAmount><InventoryItemType>0</InventoryItemType><InWards>2223</InWards><PanelLengthQuantity>0.00 </PanelLengthQuantity><PanelWidthQuantity>0.00 </PanelWidthQuantity><PanelHeightQuantity>0.00 </PanelHeightQuantity><PanelRadiusQuantity>0.00 </PanelRadiusQuantity><PanelQuantity>0.00 </PanelQuantity><InventoryItemCategoryCode>HH</InventoryItemCategoryCode><InventoryItemCategoryName>Hàng hóa</InventoryItemCategoryName><RowType>0</RowType><MainUnitName>kg</MainUnitName><MainConvertRate>1.00 </MainConvertRate><MainQuantity>2223.00 </MainQuantity><MainUnitPrice>11400.00 </MainUnitPrice></UserItem><UserItem><LineNumber>8</LineNumber><AmountOC>3250000 </AmountOC><VATAmountOC>325000 </VATAmountOC><DiscountRate>0.00 </DiscountRate><DiscountAmountOC>0 </DiscountAmountOC><DiscountAmount>0 </DiscountAmount><InventoryItemType>0</InventoryItemType><InWards>250</InWards><PanelLengthQuantity>0.00 </PanelLengthQuantity><PanelWidthQuantity>0.00 </PanelWidthQuantity><PanelHeightQuantity>0.00 </PanelHeightQuantity><PanelRadiusQuantity>0.00 </PanelRadiusQuantity><PanelQuantity>0.00 </PanelQuantity><InventoryItemCategoryCode>HH</InventoryItemCategoryCode><InventoryItemCategoryName>Hàng hóa</InventoryItemCategoryName><RowType>0</RowType><MainUnitName>kg</MainUnitName><MainConvertRate>1.00 </MainConvertRate><MainQuantity>250.00 </MainQuantity><MainUnitPrice>13000.00 </MainUnitPrice></UserItem></UserItems>]]></inv:userDefines>
+    </inv:invoiceData>
+    <inv:controlData>
+        <inv:systemCode>LHD_MISA</inv:systemCode>
+    </inv:controlData>
+    <Signature Id="seller"
+        xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <SignedInfo>
+            <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+            <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+            <Reference URI="#data">
+                <Transforms>
+                    <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                </Transforms>
+                <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                <DigestValue>esXLzezTM1c1nFTBNEMOUDPuKEI=</DigestValue>
+            </Reference>
+        </SignedInfo>
+        <SignatureValue>pTSlVeYYO4tSBEhsqb0Y4IqQVqplm+mPRhs4D0RGRUnd8WGe/SXU1YZg2miHTeamUSJd8J0UMpvnBMIP1+Q1EwrF0lATUlx+mVnRJf9hwmE8FDlRNXxLW744Eh4GTUVICbeX8i/2sxJaUOD4Mdh7uNubLiSh3ch2nNhkTba8nR2yoGaII9GUzJeDj6YSCu5Vjr1//6q5wiut9djDuLt8Rp0tQKalq4XQgSX+mwJeOouzemF3CsI/ZDKzp/uwwQP0uxiO6qlS0wDFbrTrpFxfCOxxLu0WHf/29nUccO2gxQbKKZ0mw5cCjWmDcUil+qnm5Fz7fOS6xEBzNMjEUk/KJQ==</SignatureValue>
+        <KeyInfo>
+            <X509Data>
+                <X509SubjectName>OID.0.9.2342.19200300.100.1.1=MST:3702408483, CN=Công Ty TNHH Thương Mại Dịch Vụ Và Xây Dựng Quang Thành Phát, S=TỈNH BÌNH DƯƠNG, C=VN</X509SubjectName>
+                <X509Certificate>MIIFWjCCBEKgAwIBAgIQVAEBBDT6VL4msTTmj+iQEDANBgkqhkiG9w0BAQUFADBuMQswCQYDVQQGEwJWTjEYMBYGA1UEChMPRlBUIENvcnBvcmF0aW9uMR8wHQYDVQQLExZGUFQgSW5mb3JtYXRpb24gU3lzdGVtMSQwIgYDVQQDExtGUFQgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMjAwNDEzMDcyNDAwWhcNMjIxMjA4MDcyNDAwWjCBojELMAkGA1UEBhMCVk4xHTAbBgNVBAgMFFThu4hOSCBCw4xOSCBExq/GoE5HMVQwUgYDVQQDDEtDw7RuZyBUeSBUTkhIIFRoxrDGoW5nIE3huqFpIEThu4tjaCBW4bulIFbDoCBYw6J5IEThu7FuZyBRdWFuZyBUaMOgbmggUGjDoXQxHjAcBgoJkiaJk/IsZAEBDA5NU1Q6MzcwMjQwODQ4MzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALBhm5l3+XgrISnZ3fpBGa7yfs+mGtyQ1HPoqMVO5eyzj+XWWPYY9ZMMbI6Cu1W/IJpoy54cfmcuKHnS4HQjXC0nZ07eccP5AhqGxOoQ03KD1oK/DhZxDLomz6X6tayYzLRGzz0AxiL4pk2DaYPjNqvpnf9OxbqaxTPmGRu3VWfbFFMBpIM7xSFZe0UISbQ7GNEg1JJURTjFrE7c5eYf3NUaAMkoUjtiZ3hoa4hIaQti7EAYep88yjLMjUPtsWh24feHHtNuwYkeQUvUrr3j1VQLuv8W92Wn6UpKyM+5J3nU/MH56iaMZV6+pmvF7hFVCFL5vS3T9auD8gtvnLhu570CAwEAAaOCAb0wggG5MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUmqYRpQsOjBItEi31ltblF2sgPC8wgagGCCsGAQUFBwEBBIGbMIGYMDcGCCsGAQUFBzAChitodHRwOi8vcHVibGljLnJvb3RjYS5nb3Yudm4vY3J0L21pY25yY2EuY3J0MDgGCCsGAQUFBzAChixodHRwOi8vZGljaHZ1ZGllbnR1LmZwdC5jb20udm4vY3J0L2ZwdGNhLmNydDAjBggrBgEFBQcwAYYXaHR0cDovL29jc3AyLmZpcy5jb20udm4wTwYDVR0gBEgwRjBEBgsrBgEEAYHtAwEEATA1MDMGCCsGAQUFBwIBFidodHRwOi8vZGljaHZ1ZGllbnR1LmZwdC5jb20udm4vY3BzLmh0bWwwNAYDVR0lBC0wKwYIKwYBBQUHAwIGCCsGAQUFBwMEBgorBgEEAYI3CgMMBgkqhkiG9y8BAQUwJwYDVR0fBCAwHjAcoBqgGIYWaHR0cDovL2NybDIuZmlzLmNvbS52bjAdBgNVHQ4EFgQUhaEhEYpDRwcIV96vBxO1CTccihMwDgYDVR0PAQH/BAQDAgTwMA0GCSqGSIb3DQEBBQUAA4IBAQB6KrzUnACzC5n74aDOjq/jczJQBd9DDi1QhWQ8xz+mCFxfWC44Uer/zznzFvQF7E7d//SPlj0xGCQc+LFKtkrx+wOhsBITKy9IugFEgxfPecvv0MV1VO7xUyAx/1ivKkYDe0Bez5x/EiGo39tioFpRESdNGcq1pNkaDuyHE/uwlKSS78IXF/+0XvqnBEggLA6Qty+Ssz6NVNg97EWSKhqb1DjEmpAr4fWgePhlBLqwtvUKwdJeuflEaW84a8zyCbS7r5HltMs3tYUNwLQzQWx/012FbNYrlKvLEcbbL7yJ7mH3ZM3xmvN2/MEzcYrbWDBUXCtjtUaGfvxPmzx2X+g7</X509Certificate>
+            </X509Data>
+        </KeyInfo>
+    </Signature>
+</inv:invoice>
